@@ -1,5 +1,3 @@
-# main_server.py
-# FastAPI server for real-time trial streaming (JSON control + binary arrays)
 
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
 from fastapi.middleware.cors import CORSMiddleware

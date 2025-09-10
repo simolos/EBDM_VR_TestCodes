@@ -1,5 +1,4 @@
-# ws_stream.py
-# English comments in code
+
 import asyncio
 import logging
 import time

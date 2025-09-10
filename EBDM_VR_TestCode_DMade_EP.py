@@ -1,9 +1,4 @@
 
-# Run: pip install numpy websockets uvicorn fastapi
-# Run uvicorn websocket_server:app --host 127.0.0.1 --port 8765 --log-level info
-# In a second terminal, activate the venv: source "venv_path"/bin/activate
-
-
 import time
 import random
 import numpy as np
